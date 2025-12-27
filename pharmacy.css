@@ -1,17 +1,16 @@
 body img{
     width: 200px;
     height: 200px;
-    }
+}
 
 table td img{
     width: 50px;
     height: 50px;
-
 }
+
 th{ 
-    background-color:burlywood;
+    background-color: burlywood;
 }
 td{
     background-color: lightblue;
 }
-
